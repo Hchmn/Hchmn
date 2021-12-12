@@ -9,4 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-img< src="https://github-readme-stats.vercel.app/api?username=Hchmn" style="color:blue;"> 
+img<src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" style= color: blue;>
+
