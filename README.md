@@ -1,6 +1,6 @@
 ### Hello World!! 👋
 
-## I'am Nash
+## I am Nash
 
 - 🤵 Aspiring to be a Software Engineer.
 - 🧠 I'm currently expanding my knowledge in CodeIgniter, React Native,  Java Spring Boot, NodeJS, PHP, JS, & OOP.
